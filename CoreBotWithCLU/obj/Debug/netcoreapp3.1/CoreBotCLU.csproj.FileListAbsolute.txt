@@ -1,0 +1,231 @@
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CognitiveModels\FlightBooking.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\LinuxDotNet\template.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.exe
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.deps.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.runtimeconfig.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.runtimeconfig.dev.json
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.pdb
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Azure.AI.Language.Conversations.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.AssemblyReference.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.AssemblyInfoInputs.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.AssemblyInfo.cs
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.CoreCompileInputs.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\CoreBotCLU.StaticWebAssets.Manifest.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\CoreBotCLU.StaticWebAssets.Pack.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CoreBotCLU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CoreBotCLU.props
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CoreBotCLU.props
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CoreBotCLU.props
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.RazorTargetAssemblyInfo.cache
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.CopyComplete
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.dll
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.pdb
+C:\Users\pilla\Downloads\cognitive-service-language-samples-main (1)\cognitive-service-language-samples-main\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.genruntimeconfig.cache
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CognitiveModels\FlightBooking.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\LinuxDotNet\template.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.exe
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.deps.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.runtimeconfig.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.runtimeconfig.dev.json
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.pdb
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Azure.AI.Language.Conversations.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.Streaming.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Emulator Bot\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.AssemblyReference.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.AssemblyInfoInputs.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.AssemblyInfo.cs
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.CoreCompileInputs.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.MvcApplicationPartsAssemblyInfo.cs
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.MvcApplicationPartsAssemblyInfo.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\CoreBotCLU.StaticWebAssets.Manifest.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\CoreBotCLU.StaticWebAssets.Pack.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CoreBotCLU.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CoreBotCLU.props
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CoreBotCLU.props
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CoreBotCLU.props
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.RazorTargetAssemblyInfo.cache
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.CopyComplete
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.dll
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.pdb
+D:\Emulator Bot\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.genruntimeconfig.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CognitiveModels\FlightBooking.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\LinuxDotNet\template.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.exe
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.deps.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.runtimeconfig.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.runtimeconfig.dev.json
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\CoreBotCLU.pdb
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Azure.AI.Language.Conversations.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.Streaming.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.AssemblyReference.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.AssemblyInfoInputs.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.AssemblyInfo.cs
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.CoreCompileInputs.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.MvcApplicationPartsAssemblyInfo.cs
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.MvcApplicationPartsAssemblyInfo.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\CoreBotCLU.StaticWebAssets.Manifest.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\CoreBotCLU.StaticWebAssets.Pack.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CoreBotCLU.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CoreBotCLU.props
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CoreBotCLU.props
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CoreBotCLU.props
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.RazorTargetAssemblyInfo.cache
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.csproj.CopyComplete
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.dll
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.pdb
+D:\Emulator_MiPcLista02\CoreBotWithCLU\obj\Debug\netcoreapp3.1\CoreBotCLU.genruntimeconfig.cache
